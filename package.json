@@ -1,0 +1,19 @@
+{
+  "name": "quizlet-terms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "http": "^0.0.1-security",
+    "node-html-parser": "^5.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
